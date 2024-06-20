@@ -19,4 +19,4 @@
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Javaria-Shabbir24&show_icons=true"/>
 
-<img alt="top languages" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javaria-Shabbir24&layout=compact"/>
+<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javaria-Shabbir24&layout=compact"/>
