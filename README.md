@@ -20,3 +20,5 @@
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Javaria-Shabbir24&show_icons=true"/>
 
 <img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javaria-Shabbir24&layout=compact"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Javaria-Shabbir24)](https://git.io/streak-stats)
