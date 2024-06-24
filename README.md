@@ -21,4 +21,4 @@
 
 <img alt="top languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javaria-Shabbir24&layout=compact"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Javaria-Shabbir24)](https://git.io/streak-stats)
+<img alt="streak"  src="https://github-readme-streak-stats.herokuapp.com?user=Javaria-Shabbir24"/>
