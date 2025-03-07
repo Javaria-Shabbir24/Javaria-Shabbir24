@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javaria Shabbir</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 Building seamless and innovative Flutter applications with 1+ year of expertise! 🚀
 
 - 👨‍💻 All of my projects are available at [https://github.com/Javaria-Shabbir24](https://github.com/Javaria-Shabbir24)
 
